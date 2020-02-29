@@ -1,0 +1,181 @@
+{
+  "main": {
+    "name":"Aneesh Mullapudi",
+    "occupation":"M.S. Computer Science student",
+    "description":" currently pursuing my masters at ",
+    "employer":"Kent State University",
+    "jobDescription":"full stack software engineer across the range of our products, as well being a Devops And Database pro",
+    "image":"profilepic.jpg",
+    "bio":"I am an software engineer at heart, with an entrepreneurial spirit, a knack for building and deploying stuff, and a passion for coding. As a final year master student, I pursued my first development job to kick off my experience. I started actively contributing to an opensource project as a Database Lead, where I still contribute today. Since beginning my career there, I have been given the opportunity to work in all the realms of software engineering like development deployment and designing. I am currently working to integrate more features into the project.",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "smullap3@gmail.com",
+    "phone": "(904)-510-9203",
+    "address":{
+      "street":"1840 Rhodes Road",
+      "city":"Kent",
+      "state":"Ohio",
+      "zip": "44240"
+    },
+    "website": "http://www.aneeshmullapudi.com",
+    "resumedownload":"https://drive.google.com/open?id=1Gs9uq44JeVYFQ4k1h7M17r9mY5-VW4q5",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/aneesh-mullapudi/",
+        "className":"fa fa-linkedin"
+      },
+
+      {
+        "name":"github",
+        "url":"http://github.com/aneesh4995",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/MullapudiAneesh",
+        "className":"fa fa-twitter"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am sure to complete given a task in any of the following technologies",
+    "education":[
+      {
+        "school":"Kent State University",
+        "degree":"Masters in Computer Science",
+        "graduated":"May 2020",
+        "description":"Received Golden Key Honours for top 5% high performing graduate students",
+        "description2":"Volunteered at KentHackSu Conducted at Kent State University",
+        "course":"Coursework : Advanced Algorithms, Web Programming–1, Data Mining, Deep Learning, Image Processing, Big Data Analytics"
+      },
+      {
+        "school":"Pes University-South Campus",
+        "degree":"Bachelors in Computer Science and Engineering",
+        "graduated":"June 2018",
+        "description":"Attended Workshop On Big Data And Docker using R",
+        "description2":"Volunteered to conduct TEDx at campus ",
+        "course":"Coursework : Data Structures, Design and Analysis of Algorithms, Database Management Systems, Web Programming, Software Engineering, Artificial Intelligence, Pattern Recognition."
+      }
+    ],
+    "work":[
+      {
+        "company":"Drum Root, Zero To Mastery",
+        "title":"Database Lead ",
+        "years":"October 2019 - Present",
+        "description1":"Led a team of 3 in creating ERD diagram and database tables. Suggested to use PostgreSQL instead of MySQL which resulted in an increase of 30% in speed when used in dockerized environment.",
+        "description2":"Built Docker container for API in order to improve developer workflow, increase and optimize performance.",
+        "description3":"Helped in creating and maintaining an automated CI/CD pipeline for code deployment using Travis CI.",
+        "description4":"Participated in Peer code reviews and provided suggestions on improving quality of the code. ",
+        "description5":"Partnered with web designers and assisted in breaking down the website into reusable React components and created a state machine diagram to provide hassle free development experience."
+      }
+    ],
+    "skills":{
+      "languages":[
+        {
+          "name":"Python",
+          "image":"python.jpg"
+        },
+        {
+          "name":"JavaScript",
+          "image":"javascript.jpg"
+        },
+        {
+          "name":"Java",
+          "image":"java.jpg"
+        },
+        {
+          "name":"C",
+          "image":"c.jpg"
+        }
+      ],
+      "frameworks":[
+      {
+        "name":"Node JS",
+        "image":"node.jpg"
+      },
+      {
+        "name":"React Js",
+        "image":"react.jpg"
+      },
+      {
+        "name":"Flask",
+        "image":"flask.jpg"
+      },
+      {
+        "name":"Django",
+        "image":"django.jpg"
+      }
+      ],
+      "databases":[
+      {
+        "name":"MySQL",
+        "image":"mysql.jpg"
+      },
+      {
+        "name":"PostgreSQL",
+        "image":"postgres.jpg"
+      },
+      {
+        "name":"MongoDB",
+        "image":"mongo.jpg"
+      },
+      {
+        "name":"Redis",
+        "image":"redis.jpg"
+      }
+    ],
+    "devops":[
+      {
+        "name":"Git",
+        "image":"git.jpg"
+      },
+      {
+        "name":"Docker",
+        "image":"docker.jpg"
+      },
+      {
+        "name":"Jenkins",
+        "image":"jenkins.png"
+      },
+      {
+        "name":"Heroku",
+        "image":"heroku.jpg"
+      }
+    ]
+  }},
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume.png",
+        "url":"https://www.aneeshmullapudi.com"
+      },
+      {
+        "title":"CRWN-Clothing",
+        "category":"E-Commerce app ready for production",
+        "image":"crwn1.png",
+        "url":"https://crwn-eclothing-live.herokuapp.com/"
+      },
+      {
+        "title":"HeartPro",
+        "category":"Predicting the risk of heart disease",
+        "image":"heart.png",
+        "url":"https://github.com/aneesh4995/HeartPro"
+      },
+      {
+        "title":"CPU algorithm visualizer",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"cpu.jpg",
+        "url":"https://github.com/aneesh4995/cpu-algorithms-viz"
+      },
+      {
+        "title":"Parking space detection",
+        "category":"using Mask-Rcnn and OpenCV",
+        "image":"parking.png",
+        "url":"https://github.com/aneesh4995/Parking-space-detection"
+      }
+    ]
+  }
+}
+
