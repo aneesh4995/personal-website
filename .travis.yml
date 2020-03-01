@@ -1,7 +1,7 @@
 language: node_js
 node_js:
   - "node"
-script:
+script: echo "npm test temporarily disabled"
   -
 deploy:
   provider: firebase
