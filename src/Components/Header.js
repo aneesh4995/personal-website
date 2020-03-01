@@ -40,7 +40,7 @@ class Header extends Component {
             <h1 className="responsive-headline">I'm {name}.</h1>
             <Type></Type>
             <h3>I'm a <span>{city}</span> based <span>{occupation}</span>, 
-            {description}<span>{employer}</span>. I searching for job a 
+            {description}<span>{employer}</span>.I am a
             <span> {jobDescription}</span>.</h3>
             <hr />
             <ul className="social">
