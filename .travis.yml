@@ -1,9 +1,7 @@
 language: node_js
 node_js:
   - "node"
+before_script:
+  - npm install firebase-tools -g
 script: echo "npm test temporarily disabled"
-  -
-deploy:
-  provider: firebase
-  token:
-    secure: "1//04mF6ylScqobHCgYIARAAGAQSNwF-L9Ir09jJcGk5-hYf_s1Uxqada3ZsstaEHs60tEKsSoLOnI2IQt3Ewg7ao22Zl5cLN6YyO1A"
+  -firebase deploy --only hosting --token "1//04mF6ylScqobHCgYIARAAGAQSNwF-L9Ir09jJcGk5-hYf_s1Uxqada3ZsstaEHs60tEKsSoLOnI2IQt3Ewg7ao22Zl5cLN6YyO1A"
