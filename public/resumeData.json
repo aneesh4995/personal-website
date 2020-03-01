@@ -165,7 +165,7 @@
       },
       {
         "title":"CPU algorithm visualizer",
-        "category":"Using vanilla js",
+        "category":"visual representation of algorithms",
         "image":"cpu.jpg",
         "url":"https://github.com/aneesh4995/cpu-algorithms-viz"
       },
